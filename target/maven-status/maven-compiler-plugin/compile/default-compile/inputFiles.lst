@@ -1,0 +1,6 @@
+/home/cgi/Desktop/SpringDataRedis/src/main/java/com/stackroute/redis/controller/WebController.java
+/home/cgi/Desktop/SpringDataRedis/src/main/java/com/stackroute/redis/SpringDataRedisApplication.java
+/home/cgi/Desktop/SpringDataRedis/src/main/java/com/stackroute/redis/model/Customer.java
+/home/cgi/Desktop/SpringDataRedis/src/main/java/com/stackroute/redis/repo/CustomerRepository.java
+/home/cgi/Desktop/SpringDataRedis/src/main/java/com/stackroute/redis/repo/CustomerRepositoryImpl.java
+/home/cgi/Desktop/SpringDataRedis/src/main/java/com/stackroute/redis/config/RedisConfig.java
